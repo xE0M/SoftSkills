@@ -1,4 +1,9 @@
 # SoftSkills
+ЭТОТ РЕПОЗИТОРИЙ ИЗМЕНЯЛСЯ НЕСКОЛЬКО РАЗ. 
+
+
+
+
 #include <iostream>
 #include <bitset>
 #include <fstream>
