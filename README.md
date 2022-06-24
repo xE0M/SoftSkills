@@ -1,4 +1,7 @@
 # SoftSkills
+ИЗМЕНЯЮ 
+
+
 #include <iostream>
 #include <bitset>
 #include <fstream>
