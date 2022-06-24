@@ -1,4 +1,5 @@
 # SoftSkills
+для віддлагодження поекту 
 #include <iostream>
 #include <bitset>
 #include <fstream>
