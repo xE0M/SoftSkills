@@ -64,9 +64,10 @@ int main()
 
     read_alphabet(alphabet);
     for (int i = 0; i < alphabet.size(); ++i) {
-        cout << alphabet[i] << "\n";
+        cout << alphabet[i] << " ";
+        cout << "\n";                       
     }
-
+    
     read_nums(string_arr);
     for (int i = 0; i < string_arr.size(); ++i) {
         cout << string_arr[i] << "\n";
